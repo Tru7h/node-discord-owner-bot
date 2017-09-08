@@ -1,0 +1,19 @@
+{
+  "name": "node-discord-owner-bot",
+  "version": "1.0.0",
+  "description": "A discord bot which manages a decentralized server. Changes done by a group vote.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meganukebmp/node-discord-owner-bot.git"
+  },
+  "author": "meganukebmp, Nexrem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meganukebmp/node-discord-owner-bot/issues"
+  },
+  "homepage": "https://github.com/meganukebmp/node-discord-owner-bot#readme"
+}
