@@ -2,7 +2,6 @@
 
  const Discord = require("discord.js");
  const parser = require("ini-parser");
- parser.parse(String)
  const config = parser.parseFileSync('config.ini')
  const client = new Discord.Client();
  
