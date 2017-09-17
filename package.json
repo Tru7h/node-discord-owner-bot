@@ -17,8 +17,9 @@
   },
   "homepage": "https://github.com/meganukebmp/node-discord-owner-bot#readme",
   "dependencies": {
-    "discordie": "^0.11.0",
-    "ini-parser": "git+https://git@github.com/meganukebmp/node-ini-parser.git"
+    "discord.js": "^11.2.1",
+    "ini-parser": "https://git@github.com/meganukebmp/node-ini-parser.git"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "keywords": []
 }
